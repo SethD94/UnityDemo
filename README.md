@@ -4,7 +4,7 @@
 This UnityDemo allows to connect with StretchSense glove and see how sensor data is translated into animation. To make it work following is required:
   - A StretchSense Glove
   - Ble connection script from Unity asset store : https://www.google.com/url?q=https://assetstore.unity.com/packages/tools/network/bluetooth-le-for-ios-tvos-and-android-26661&sa=D&source=hangouts&ust=1545102703884000&usg=AFQjCNH6VE8wO31RKimOKx-RekzcWnB4Ng
-  - Any 3D asset like glove or hand
+  - Any 3D asset like glove or hand. We have included free asset if you import GloveDemo scene. If you import your new asset then you may have to define your reference position as default one may not work. (Please see TrainingData.cs TrainingY array)
 
 # How to make it work!
 
