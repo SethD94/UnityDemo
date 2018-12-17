@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="$USER_HOME$/Library/Caches/Rider2018.2/extResources" t="IncludeRecursive" />
+    <e p="$USER_HOME$/Library/Caches/Rider2018.2/resharper-host/local/Transient/ReSharperHost/v182/SolutionCaches/_UnityDemo.-594536501.00" t="ExcludeRecursive" />
+    <e p="$PROJECT_DIR$" t="IncludeRecursive">
+      <e p="Assembly-CSharp-Editor-firstpass.csproj" t="IncludeRecursive" />
+      <e p="Assembly-CSharp-Editor.csproj" t="IncludeRecursive" />
+      <e p="Assembly-CSharp-firstpass.csproj" t="IncludeRecursive" />
+      <e p="Assembly-CSharp.csproj" t="IncludeRecursive" />
+      <e p="Assets" t="Include">
+        <e p="MORPH3D" t="Include">
+          <e p="README.txt" t="Include" />
+          <e p="Resources" t="Include">
+            <e p="Shaders" t="Include">
+              <e p="AlphaCombiner.shader" t="Include" />
+              <e p="EyeAndLash.shader" t="Include" />
+              <e p="Morph3DBasicSkin.shader" t="Include" />
+            </e>
+          </e>
+          <e p="Scripts" t="Include">
+            <e p="Editor" t="Include">
+              <e p="CIClothingEditor.cs" t="Include" />
+              <e p="M3DCharacterManagerEditor.cs" t="Include" />
+              <e p="M3DMorphEditor.cs" t="Include" />
+              <e p="M3DResourceEditor.cs" t="Include" />
+              <e p="M3DToolsEditor.cs" t="Include" />
+              <e p="MaterialImporter.cs" t="Include" />
+              <e p="MorphDebugInfo.cs" t="Include" />
+              <e p="SearchableWindow.cs" t="Include" />
+            </e>
+          </e>
+          <e p="Vendor" t="Include">
+            <e p="Unity" t="Include">
+              <e p="Shaders" t="Include">
+                <e p="Hair" t="Include">
+                  <e p="Editor" t="Include">
+                    <e p="HairShaderGUI.cs" t="Include" />
+                  </e>
+                  <e p="Hair_setup.cginc" t="Include" />
+                  <e p="Hair_UnityStandardCore.cginc" t="Include" />
+                  <e p="Hair_UnityStandardInput.cginc" t="Include" />
+                  <e p="Hair_Universal.shader" t="Include" />
+                  <e p="HairRenderer.cs" t="Include" />
+                </e>
+                <e p="Skin" t="Include">
+                  <e p="Editor" t="Include">
+                    <e p="VolundMultiStandardShaderGUI.cs" t="Include" />
+                  </e>
+                  <e p="MorphSkinDeferred.shader" t="Include" />
+                  <e p="Volund_StandardSpecularCharacter.shader" t="Include" />
+                  <e p="Volund_UnityStandardCore.cginc" t="Include" />
+                  <e p="Volund_UnityStandardInput.cginc" t="Include" />
+                </e>
+                <e p="Standard" t="Include">
+                  <e p="Standard-2pass-doublesided-half depth.shader" t="Include" />
+                  <e p="Standard-2pass-doublesided.shader" t="Include" />
+                  <e p="Standard-doublesided.shader" t="Include" />
+                  <e p="StandardSpecular-doublesided.shader" t="Include" />
+                </e>
+                <e p="UniqueShadow" t="Include">
+                  <e p="UniqueShadow.cs" t="Include" />
+                  <e p="UniqueShadow_DepthOnly.shader" t="Include" />
+                  <e p="UniqueShadow_ShadowSample.cginc" t="Include" />
+                  <e p="UniqueShadowSun.cs" t="Include" />
+                </e>
+              </e>
+            </e>
+          </e>
+        </e>
+        <e p="Plugins" t="Include">
+          <e p="NativeShare" t="Include">
+            <e p="Editor" t="Include">
+              <e p="NSPostProcessBuild.cs" t="Include" />
+            </e>
+            <e p="NativeShare.cs" t="Include" />
+            <e p="README.txt" t="Include" />
+          </e>
+        </e>
+        <e p="Scripts" t="Include">
+          <e p="Controller" t="Include">
+            <e p="HandController.cs" t="Include" />
+            <e p="KeepGrounded.cs" t="Include" />
+            <e p="LegController.cs" t="Include" />
+            <e p="SleeveController.cs" t="Include" />
+          </e>
+          <e p="DataStorage" t="Include">
+            <e p="CalibrationData.cs" t="Include" />
+            <e p="CalibrationStorage.cs" t="Include" />
+            <e p="SaveFile.cs" t="Include" />
+          </e>
+          <e p="General SSL Bluetooth" t="Include">
+            <e p="SSL_Circuit.cs" t="Include" />
+            <e p="StretchSenseAPI.cs" t="Include" />
+          </e>
+          <e p="GloveBle" t="Include">
+            <e p="SSLBleAPI.cs" t="Include" />
+          </e>
+          <e p="GloveUIManager.cs" t="Include" />
+          <e p="KneeUIManager.cs" t="Include" />
+          <e p="Learning and Calibration" t="Include">
+            <e p="SolveLeastSquares.cs" t="Include" />
+            <e p="TrainingData.cs" t="Include" />
+          </e>
+          <e p="SleeveUIManager.cs" t="Include" />
+          <e p="Utility" t="Include">
+            <e p="PlayerPrefsX.cs" t="Include" />
+            <e p="RandomUtility.cs" t="Include" />
+          </e>
+        </e>
+      </e>
+      <e p="Library" t="ExcludeRecursive" />
+      <e p="obj" t="ExcludeRecursive" />
+      <e p="packages" t="ExcludeRecursive" />
+      <e p="Temp" t="ExcludeRecursive">
+        <e p="bin" t="ExcludeRecursive" />
+      </e>
+      <e p="UnityDemo.sln" t="IncludeFlat" />
+    </e>
+  </component>
+</project>

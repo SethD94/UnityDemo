@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 85eb358825934f5389f54c38bcee0fff
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - StretchSenseController: {instanceID: 0}
+  - StretchSenseApi: {instanceID: 0}
+  - buttonLeftGlove: {instanceID: 0}
+  - OffSprite: {fileID: 21300000, guid: 8cebc30d3c6a440e490ab2c4fd9eab96, type: 3}
+  - OnSprite: {fileID: 21300000, guid: 9bbb7f3ff0abf4508afd9a88ce433bd8, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

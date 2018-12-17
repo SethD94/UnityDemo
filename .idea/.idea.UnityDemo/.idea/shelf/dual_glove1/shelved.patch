@@ -1,0 +1,16 @@
+Index: Assets/Hands.meta
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- Assets/Hands.meta	(date 1538426111000)
++++ Assets/Hands.meta	(date 1538426111000)
+@@ -0,0 +1,8 @@
++fileFormatVersion: 2
++guid: 3cd19a1ac2099224a99272ed6dc478f4
++folderAsset: yes
++DefaultImporter:
++  externalObjects: {}
++  userData: 
++  assetBundleName: 
++  assetBundleVariant: 

@@ -1,0 +1,9 @@
+<changelist name="dual_glove" date="1538510304434" recycled="false">
+  <option name="PATH" value="$PROJECT_DIR$/.idea/.idea.UnityDemo/.idea/shelf/dual_glove/shelved.patch" />
+  <option name="DESCRIPTION" value="dual glove" />
+  <binary>
+    <option name="BEFORE_PATH" value="Assets/Plugins/Editor/JetBrains/JetBrains.Rider.Unity.Editor.Plugin.Repacked.dll" />
+    <option name="AFTER_PATH" value="Assets/Plugins/Editor/JetBrains/JetBrains.Rider.Unity.Editor.Plugin.Repacked.dll" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/.idea.UnityDemo/.idea/shelf/dual_glove/JetBrains.Rider.Unity.Editor.Plugin.Repacked.dll" />
+  </binary>
+</changelist>
