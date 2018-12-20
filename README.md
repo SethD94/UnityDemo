@@ -24,4 +24,6 @@ This script listens to notification data from ble and pass it to machine learnin
    
 The folder within the folder are responsible to collect data at different calibrating positions and run machine learning algorithm on them
 
+# Demo Video
 
+https://www.youtube.com/watch?v=vc86d-5sAlY
